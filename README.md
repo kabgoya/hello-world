@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+I'm program.
+日本語もかけるかな？
